@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">你听我说</string>
+    <string name="to_start">开始</string>
+    <string name="to_stop">停止</string>
 </resources>
